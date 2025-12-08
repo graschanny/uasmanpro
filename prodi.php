@@ -6,19 +6,19 @@ $id = isset($_GET['id']) ? $_GET['id'] : 'si';
 if($id == 'si'){
     $judul = "Sistem Informasi";
     $img = "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80";
-    $desc = "Program studi yang fokus pada integrasi teknologi informasi dengan proses bisnis untuk menciptakan solusi sistem yang efisien dan efektif dalam organisasi.";
+    $desc = "Konsentrasi yang fokus pada integrasi teknologi informasi dengan proses bisnis untuk menciptakan solusi sistem yang efisien dan efektif dalam organisasi.";
 } elseif($id == 'ec'){
     $judul = "E-Commerce";
     $img = "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80";
-    $desc = "Program studi yang mempelajari strategi bisnis digital, pemasaran online, dan pengembangan platform e-commerce untuk menciptakan technopreneur sukses di era digital.";
+    $desc = "Konsentrasi yang mempelajari strategi bisnis digital, pemasaran online, dan pengembangan platform e-commerce untuk menciptakan technopreneur sukses di era digital.";
 } elseif($id == 'gt'){
     $judul = "Game Technology";
     $img = "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80";
-    $desc = "Program studi yang mendalami pengembangan game dari sisi teknologi, desain, dan bisnis untuk menciptakan pengalaman gaming yang imersif dan inovatif.";
+    $desc = "Konsentrasi yang mendalami pengembangan game dari sisi teknologi, desain, dan bisnis untuk menciptakan pengalaman gaming yang imersif dan inovatif.";
 } else {
     $judul = "Akuntansi Sistem Informasi";
     $img = "https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80";
-    $desc = "Program studi yang mengintegrasikan ilmu akuntansi dengan teknologi sistem informasi untuk menghasilkan profesional yang menguasai audit teknologi dan keuangan digital.";
+    $desc = "Konsentrasi yang mengintegrasikan ilmu akuntansi dengan teknologi sistem informasi untuk menghasilkan profesional yang menguasai audit teknologi dan keuangan digital.";
 }
 ?>
 
@@ -509,7 +509,7 @@ if($id == 'si'){
 
     <!-- HIGHLIGHT -->
     <div class="highlight-box">
-        <h3 style="color: #2D9CDB; margin-bottom: 15px;">Keunggulan Program Studi</h3>
+        <h3 style="color: #2D9CDB; margin-bottom: 15px;">Keunggulan Konsentrasi</h3>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
             <div>
                 <h4 style="color: #333; margin-bottom: 10px;">🎯 Kurikulum Berbasis Industri</h4>

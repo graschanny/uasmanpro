@@ -474,7 +474,7 @@
                 <!-- Program Studi Dropdown - DIPERBAIKI -->
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle">
-                        Program Studi
+                        Konsentrasi
                     </a>
                     <div class="dropdown-content">
                         <a href="prodi.php?id=si" class="dropdown-item">Sistem Informasi</a>
